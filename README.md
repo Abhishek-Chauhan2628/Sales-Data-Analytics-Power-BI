@@ -10,7 +10,7 @@ Analyzed sales data using SQL and Power BI to identify revenue trends, top-perfo
 Clone the project
 
 ```bash
-  git clone https://github.com/Abhishek-Chauhan2628/Sale-Data-Analysis-PowerBI.git
+  git clone https://github.com/Abhishek-Chauhan2628/Sale-Data-Analysis-Power-BI.git
 ```
 
 Go to the project directory and open ``` .pbix ``` file with Microsoft Power BI Desktop
@@ -58,9 +58,11 @@ and transactions.market_code="Mark001";`
 Power BI Dashboard Preview
 ============================
 
-![Page1](https://github.com/Abhishek-Chauhan2628/Sale-Data-Analysis-Power-BI/blob/master/Sales-key-insight.png)
-![Page2](https://github.com/Abhishek-Chauhan2628/Sale-Data-Analysis-Power-BI/blob/master/sales-profit-analysis.png)
-![Page3](https://github.com/Abhishek-Chauhan2628/Sale-Data-Analysis-Power-BI/blob/master/sales-performance-insight.png)
+![Page1](Sales-key-insight.png)
+
+![Page2](sales-profit-analysis.png)
+
+![Page3](sales-performance-insight.png)
 
 
 
